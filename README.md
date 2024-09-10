@@ -1,6 +1,6 @@
-# PwC Switzerland Power BI Job Simulation 
+# PwC Power BI Job Simulation 
 
-**PwC Switzerland Power BI Job Simulation on Forage - August 2024**
+**PwC Power BI Job Simulation on Forage - August 2024**
 
 ----
 # Customer Churn Analysis Project
