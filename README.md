@@ -1,45 +1,52 @@
-# PwC Switzerland Power BI Job Simulation 🚀
+# PwC Switzerland Power BI Job Simulation 
 
 **PwC Switzerland Power BI Job Simulation on Forage - August 2024**
 
+----
+# Customer Churn Analysis Project
+
+This project focuses on **customer churn analysis** using Power BI to analyze various factors such as internet services, customer demographics, payment methods, and contracts. The objective is to identify the factors contributing to churn and provide actionable insights to reduce churn rates.
+
+## Problems Identified in the Project
+
+### High Churn Rate (27%)
+- **27%** of the customers are leaving the service. A significant portion of this churn is related to:
+  - **Month-to-month contracts**: Customers with month-to-month contracts churn more frequently than those with longer contracts.
+  - **Payment methods**: Certain payment methods, like electronic checks, are associated with higher churn rates.
+
+### Churn by Contract Type
+- The highest churn occurs among **month-to-month contracts (43%)**, which, while flexible, are riskier for retention.
+- **Long-term contracts** have lower churn, but fewer customers commit to them.
+
+### Internet Services and Tech Support
+- **Fiber optic customers** have the highest number of tech tickets, indicating potential dissatisfaction with service quality, leading to increased churn.
+- **DSL users** also report tech issues, but at a lower rate than fiber optic customers.
+
+### Payment Methods Affect Churn
+- **Electronic checks** are linked to higher churn rates (45%), while **credit cards** and **automatic bank transfers** show lower churn rates.
+- Customers using **automatic payments** are more likely to stay, highlighting the importance of promoting this method.
+
+### Senior Citizens and Partner Status
+- **25% of customers** are senior citizens, and they tend to churn more compared to younger users.
+- Partners and customers without dependents also contribute to higher churn rates.
+
+## Key Insights and Recommendations
+
+### Promote Automatic Payments
+- Aim for a **yearly increase of automatic payments by 5%** to encourage a more consistent and stable payment method, which is associated with lower churn.
+
+### Improve Tech Support for Fiber Optic Customers
+- Since fiber optic customers file more tech tickets, improving the quality and capacity of tech support for these users is crucial. The goal is to reduce tech tickets per customer to **0.5**.
+
+### Target Senior Citizens with Retention Strategies
+- Develop specific retention strategies for senior citizens, offering personalized support or incentives to reduce churn among this vulnerable group.
+
+### Address Payment Method Preferences
+- Focus on customers using **electronic checks** and encourage them to switch to more stable payment methods like **credit cards** or **bank transfers**.
+
 ---
 
-## 📌 **Overview**
-
-This project involved completing a **PwC Switzerland job simulation** focused on enhancing **Power BI skills** and applying them to real-world client scenarios.
-
----
-
-## 💡 **Key Learnings & Skills Demonstrated**
-
-### 1. **Data Visualization Expertise**
-- Developed and showcased proficiency in **Power BI dashboards**.
-- Created visualizations that effectively conveyed **KPIs** to meet client needs, demonstrating my ability to respond to **client requests** with **well-designed solutions**.
-
-### 2. **Communication Skills**
-- Exhibited strong communication skills through **concise** and **informative email** communication with engagement partners.
-- Delivered **valuable insights** and **actionable suggestions** based on thorough **data analysis**, ensuring that data was both accessible and meaningful.
-
-### 3. **Analytical Problem-Solving**
-- Leveraged analytical problem-solving skills to examine **HR data**, with a focus on **gender-related KPIs**.
-- Identified **root causes** of gender balance issues at the **executive management level**, demonstrating my commitment to **data-driven decision-making**.
-
----
-
-## 🔑 **Project Highlights**
-
-- Strengthened **Power BI skills** to better understand clients’ **data visualization needs**.
-- Provided **strategic insights** by examining **HR data** and identifying opportunities for improvement, particularly in the area of **gender diversity** at leadership levels.
-- Applied a strong mix of **analytical** and **communication skills** to deliver clear, impactful results.
-
----
-
-## 🛠️ **Tools Used**
-
-- **Power BI**: For creating **dynamic dashboards** that visualize KPIs.
-- **Data Analysis**: To identify trends and root causes within HR datasets, particularly focusing on **gender balance** issues.
-- **Communication**: Demonstrated through **concise reporting** and email exchanges with partners.
-
----
-
-Thank you for visiting this project! This experience allowed me to deepen my **Power BI skills** while learning to better respond to client needs with actionable insights and strategic recommendations.
+By implementing these strategies, the business can:
+- **Reduce churn**
+- **Improve customer satisfaction**
+- **Drive revenue** through long-term contracts and enhanced customer service.
